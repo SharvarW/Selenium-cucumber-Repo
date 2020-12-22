@@ -9,3 +9,6 @@ orangeHRMFinal.xml
 
 #ignore file
 need to change the gitignore file and add changes
+
+#class file
+.class
